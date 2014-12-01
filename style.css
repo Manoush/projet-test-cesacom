@@ -1,0 +1,44 @@
+body{
+    margin:0;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+ul{
+    margin:0;
+    padding:0;
+}
+
+header{
+    background-color: #1486f1;
+    padding-top:20px;
+    padding-bottom: 20px;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Pacifico', cursive;
+}
+
+header a {
+    color:#ffffff;
+    text-decoration: none;
+}
+
+header ul {
+    list-style: none;
+}
+
+header li {
+   display: inline-block;
+    width: 32%;
+    text-align: center;
+   
+}
+
+body p {
+    padding:40px;
+}
+
+main{
+    max-width: 800px;
+    text-align: center;
+}
