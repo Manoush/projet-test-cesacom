@@ -1,7 +1,8 @@
 body{
     margin:0;
     font-family: 'Merriweather Sans', sans-serif;
-     background-image: url(images/eight_horns.png)
+    background-image: url(images/eight_horns.png)
+    
 }
 
 ul{
@@ -21,28 +22,34 @@ h1, h2, h3, h4, h5, h6{
 
 html,body {
     height:100%;
+    
+    
 }
 
 header a {
     color:#ffffff;
     text-decoration: none;
+    
+    
 }
 
 header ul {
     list-style: none;
+    
 }
 
 header li {
    display: inline-block;
     width: 32%;
     text-align: center;
+    
    
 }
 
 body p {
     padding:40px;
    text-align: center;
-    max-width: 800px;
+    max-width: 500px;
     margin: auto;
 }
 
@@ -53,7 +60,7 @@ h1 {
 footer {
     background-color:#8b8589; 
     margin-top: 80px;
-    position: fixed;
+    position:fixed;
     bottom: 0;
     width: 100%;
 
@@ -61,12 +68,19 @@ footer {
 
 footer li {
     display: inline-block;
+    align-content:center;
 }
 
 .photohome {
     margin:auto;
     display:block;
     widht:160px;
-    height:
+   
+}
+
+main {
+    text-align: center;
+    font-size: 14px; 
+    
 }
     
